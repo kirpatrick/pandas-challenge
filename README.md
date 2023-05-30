@@ -8,7 +8,7 @@ Use Python libraries and Jupyter Notebook to extract, transform, and analyze hig
 The solution is best viewed using nbviewer. Click this linked text for complete analysis - [PyCitySchools Jupyter Notebook](https://nbviewer.jupyter.org/github/kirpatrick/pandas-challenge/blob/master/PyCitySchools/PyCitySchools_complete.ipynb).
 
 ## Source
-[SMU DS Boot Camp - Pandas Challenge](https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/SMU-DAL-DATA-PT-11-2019-U-C/tree/master/02-Homework/04-Pandas/Instructions)
+[SMU DS Boot Camp - Pandas Challenge](https://techbootcamps.smu.edu/data/)
 
 ## Tech Stack
 - [Git 2.17.1](https://git-scm.com/downloads)
